@@ -20,5 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=definisi&show_icons=true&locale=en&layout=compact" alt="definisi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=definisi&show_icons=true&locale=en" alt="definisi" /></p>
-[![Top Langs](https://img.shields.io/github/languages/top/definisi/definisi?style=flat&logo=appveyor)](https://github.com/definisi/definisi)
-[![GitHub Stats](https://img.shields.io/github/stars/definisi?style=flat&logo=appveyor)](https://github.com/definisi)
+[[Top Langs](https://img.shields.io/github/languages/top/definisi/definisi?style=flat&logo=appveyor)](https://github.com/definisi/definisi)
+[[GitHub Stats](https://img.shields.io/github/stars/definisi?style=flat&logo=appveyor)](https://github.com/definisi)
